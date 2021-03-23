@@ -1,1 +1,6 @@
 Raymond Maxim Pean Laura
+Comme l'on a commit ce fichier dans la branche mon fichier sans l'avoir
+commit avant dans la branche master alors la branche master n'as pas 
+de version sauvegarder du fichier donc une fois le commit fait 
+dans la branche mon fichier, le fichier n'apparait plus dans la branche
+master car celle ci ne contient aucune sauvegarde de celui-ci.
